@@ -86,7 +86,7 @@ import './App.css';
                               return (
                                 <div>
                           <center>
-                            <h1 style={{fontSize:"30px",fontWeight:"bold",marginTop:"20px"}}>Jengjang Pendidikan</h1>
+                            <h1 style={{fontSize:"50px",fontWeight:"bold",marginTop:"20px", color:'green'}}>Jengjang Pendidikan</h1>
                            <div className="container" style={{marginTop:"20px"}}>
                             <div class="btn-group">
                               <button type="button" class="btn-lg btn-warning dropdown-toggle" data-toggle="dropdown"
